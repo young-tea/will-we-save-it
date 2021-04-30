@@ -111,6 +111,7 @@ li {
 	background-color: #FFFFFF;
 	border: solid 1px;
 	border-color: #A9A9A9;
+	border-radius: 15px;
 }
 
 #save-tog {
