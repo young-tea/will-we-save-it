@@ -1,5 +1,9 @@
 /* Global styles */
 
+* {
+	user-select: none;
+}
+
 body { 
 	background-image: url("../img/bg.webp"); 
 }
@@ -16,9 +20,9 @@ footer {
 h1 {
 	margin-left: 3.5%;
 	margin-right: 3.5%;
-	margin-bottom: 2%;
+	margin-bottom: 0.5%;
 	font-family: 'Mulish', sans-serif;
-	font-size: 350%;
+	font-size: 300%;
 }
 
 h4 {
@@ -136,110 +140,9 @@ li {
 	text-align: right;
 }
 
-#we-know {
-	padding-right: 1%;
-	margin-top: 6%;
-	text-align: right;
-}
-
-#but {
-	padding-right: 1%;
-	margin-top: 8%;
-	text-align: right;
-}
-
-#but:hover {
-	border-radius: 50px;
-	background-color: #fff261;
-}
-
-#but-down {
-	padding-right: 1%;
-	margin-top: 2%;
-	text-align: right;
-}
-
-#we-know:hover {
-	border-radius: 50px;
-	background-color: #fff261;
-}
-
-#haim {
-	font-size: 1.75em;
-}
-
-#haim1 {
-	font-size: 1.75em;
-}
-
-#haim2 {
-	font-size: 1.75em;
-}
-
-
-#haim3 {
-	font-size: 1.75em;
-}
-
-#erf {
-	margin-top: 12%;
-}
-
-#helps {
-	text-align: right;
-}
-
 #save-img {
-	width: 50%;
-	height: 50%;
-}
-
-#efim {
-	margin-left: 16%;
-	margin-top: 6%;
-	width: 65%;
-}
-
-#list {
-	margin-top: 7.5%;
-}
-
-#l1 {
-	margin-top: 2%;
-}
-
-#l2 {
-	margin-top: 2%;
-}
-
-
-#l3 {
-	margin-top: 2%;
-}
-
-
-#l4 {
-	margin-top: 2%;
-}
-
-#green {
-	padding: 15px;
-	font-size: 1.85em;
-	text-decoration: none;
-	border: solid 1px #666;
-	border-radius: 25px;
-	color: #666;
-}
-
-#green:hover {
-	color: #fff;
-	background-color: #66cc00;
-	border-radius: 25px;
-}
-
-#btn {
-	margin-top: 12%;
-	text-align: center;
+	width: 45%;
+	height: 45%;
 }
 
 #footer-txt {
