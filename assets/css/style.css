@@ -38,6 +38,14 @@ h2 {
 	text-align: right;
 }
 
+h3 {
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+	font-family: 'Mulish', sans-serif;
+	font-size: 1.9em;
+	text-align: right;
+}
+
 p {
 	margin-left: 5.5%;
 	margin-right: 3.5%;
@@ -144,12 +152,33 @@ li {
 #save-img {
 	width: 45%;
 	height: 45%;
-<<<<<<< HEAD
   	margin-left: 33%;
   	margin-right: auto;
 }
 
 #plastic-img {
+	width: 75%;
+	height: 75%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 12%;
+  	margin-bottom: 12%;
+  	border: 1px solid #666;
+}
+
+#plastic2-img {
+	width: 75%;
+	height: 75%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 12%;
+  	margin-bottom: 12%;
+  	border: 1px solid #666;
+}
+
+#plastic3-img {
 	width: 75%;
 	height: 75%;
 	display: block;
@@ -174,8 +203,8 @@ li {
 #ith-wiki {
 	color: #666;
 	text-decoration: underline;
-=======
->>>>>>> origin/main
+}
+
 }
 
 #footer-txt {
@@ -184,11 +213,33 @@ li {
 	background-color: #666;
 	font-size: 125%;
 	user-select: text;
-
-#footer-txt a {
-	color: #fff;
 }
 
+#toda-txt {
+	text-align: center;
+}
+
+#kish-txt {
+	text-align: center;
+}
+
+.btn {
+	border-radius: 40px;
+	border: solid 1px #666;
+	padding: 1.5%;
+	width: 12.5%;
+	margin: 5%;
+	background-color: #fff;
+}
+
+#b1 {
+	margin-left: 20%;
+}
+
+.btn:hover {
+	background: #666;
+	color: #fff;
+}
 
 
 
